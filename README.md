@@ -5,10 +5,10 @@ A customizable cryptocurrency mining widget for your website, supporting various
 
 ## Widget Preview
 Here is an example of a bitcoin widget and an ethereum widget.
-![Bitcoin Mining Calculator Widget](https://cryptorival.s3.amazonaws.com/media/bitcoin-mining-calc-widget.png)![Ethereum Mining Calculator Widget](https://cryptorival.s3.amazonaws.com/media/ethereum-mining-calc-widget.png)
+![Bitcoin Mining Calculator Widget](https://cryptorival.s3.amazonaws.com/media/mining-calc-widget.png)
 
 Here is an example of a bitcoin widget and an ethereum widget results.
-![Bitcoin Mining Calaculator Widget](https://cryptorival.s3.amazonaws.com/media/bitcoin-mining-calc-widget-result.png)![Ethereum Mining Calculator Widget](https://cryptorival.s3.amazonaws.com/media/ethereum-mining-calc-widget-result.png)
+![Bitcoin Mining Calaculator Widget](https://cryptorival.s3.amazonaws.com/media/mining-calc-widget-result.png)
 
 ## Installation
 
