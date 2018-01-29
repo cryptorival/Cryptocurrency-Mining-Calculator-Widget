@@ -1,7 +1,7 @@
 # Cryptocurrency Mining Calculator Widget
 A customizable cryptocurrency mining widget for your website, supporting various coins including bitcoin, ethereum, litecoin, dash, monero and all of the below:
 
-![Mining Calculator Widgets](https://cryptorival.s3.amazonaws.com/media/mining-calc-widgets.png)
+![Mining Calculator Widgets](https://cryptorival.s3.amazonaws.com/media/cryptocurrency-mining-widget-currencies.png)
 
 ## Widget Preview
 Here is an example of a bitcoin widget and an ethereum widget.
@@ -49,6 +49,13 @@ _This allows you to choose which coin the mining widget should display, your cho
 * 'komodo'
 * 'ubiq'
 * 'pascal'
+* 'gamecredits'
+* 'digitalnote'
+* 'gulden'
+* 'metaverseetp'
+* 'aeon'
+* 'expanse'
+* 'startcoin'
 
 #### width
 _Set the widget width in pixels, this is ignored if autosize is set to true_
